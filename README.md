@@ -3,4 +3,4 @@
   <img src="https://github.com/user-attachments/assets/b43dabae-739d-4f15-8055-c307f904ab85" alt="Shell" height="45">
 </p>
 
-# AI/DA Internship Edunet × Shell 
+# AI/DA Internship - Edunet × Shell 
